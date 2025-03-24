@@ -26,12 +26,10 @@ This project demonstrates a **CI/CD pipeline** using **AWS CodePipeline, CodeBui
    git clone https://github.com/richu2000/aws-devops-project.git
 Configure AWS credentials:
 
-sh
-
 aws configure
-Run Terraform to set up infrastructure:
 
-sh
+
+Run Terraform to set up infrastructure:
 
 cd terraform  
 terraform init  
