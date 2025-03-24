@@ -19,9 +19,6 @@ This project demonstrates a **CI/CD pipeline** using **AWS CodePipeline, CodeBui
 ## 📂 Project Structure  
 /aws-devops-project │── app/ # Application Code │── buildspec.yml # CI/CD Build Configuration │── terraform/ # Infrastructure as Code (Terraform) │── README.md # Project Documentation
 
-bash
-Copy
-Edit
 
 ## 🚀 Getting Started  
 1. Clone this repo:  
